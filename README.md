@@ -1,7 +1,7 @@
 # UA 3D4E Keychain
 Keychain for 3D4E club at the University of Akron.
 
-
+![Keychain](ua3d4ekeychain.jpg)
 *From [Thingiverse](https://www.thingiverse.com/thing:6117305):*
 ## Summary
 This is a keychain I designed for the 3D4E (3D For Everyone) club at the University of Akron, intended for promoting the club. It was designed in Solidworks, and the design file can be found at my Github repository for it.
