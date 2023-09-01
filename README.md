@@ -8,6 +8,8 @@ This is a keychain I designed for the 3D4E (3D For Everyone) club at the Univers
 
 The design should be fairly straightforward to print, although the model will import to slicers standing up, it is recommended to print it laying down, with the flat side down.
 
+*Disclaimer: I do not claim to own the rights to the 3D4E logo, and this is being shared for purely non-commercial purposes*
+
 ## Print Settings
 Printer brand:
 Creality
